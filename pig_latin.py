@@ -25,6 +25,6 @@ def pig_latin(sentence: str) -> str:
 
 
 if __name__ == '__main__':
-    print(pig_latin("this is pig latin"))
-    print(pig_latin("wall street journal"))
+    print(pig_latin("this is pig latin")) # Output: isthay isway igpay atinlay
+    print(pig_latin("wall street journal")) # Output: allway eetstray ournaljay
         
